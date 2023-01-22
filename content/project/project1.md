@@ -1,8 +1,8 @@
 ---
-title: "Project 1"
-description: "Lorem ipsum dolor sit amet"
-repo: "#" # delete this line if you want a blog-like page
-tags: ["BIM", "Industial", "Construction"]
+title: "pyRevit extension"
+description: "pyRevit extension for BIM coordination and architectural design"
+repo: "romangolev/pyArchitect" # delete this line if you want a blog-like page
+tags: ["BIM", "Revit", "pyRevit"]
 weight: 1
 draft: false
 ---
