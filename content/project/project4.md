@@ -1,8 +1,7 @@
 ---
-title: "Project 4"
+title: "3D web viewers"
 description: "Pellentesque eu lacinia id"
-repo: "#" # delete this line if you want a blog-like page
-tags: ["highlight-js", "syntax-highlighting"]
+tags: ["js", "html", "three-js"]
 weight: 4
 draft: false
 ---

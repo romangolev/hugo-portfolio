@@ -20,4 +20,4 @@ Skills
 - Savvy PC user
 - Analytical mind
 - Hardworking 
-- Orientation on result
+- Oriented on result

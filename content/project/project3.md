@@ -1,8 +1,8 @@
 ---
-title: "Project 3"
-description: "Cras felis sapien"
-repo: "#" # delete this line if you want a blog-like page
-tags: ["bootstrap", "responsive"]
+title: "Construction visualisations"
+description: ""
+#repo: "#" 
+tags: ["3DS Max", "VRay", "Construction"]
 weight: 3
 draft: false
 ---

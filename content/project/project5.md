@@ -1,7 +1,7 @@
 ---
-title: "Project 5"
-description: "Pellentesque eu lacinia id"
-tags: ["highlight-js", "syntax-highlighting"]
-weight: 4
+title: "Architectural projects participated"
+description: ""
+tags: ["Architecture", "BIM"]
+weight: 5
 draft: false
 ---
