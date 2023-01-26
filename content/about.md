@@ -21,3 +21,5 @@ Skills
 - Analytical mind
 - Hardworking 
 - Oriented on result
+  
+I can speak English, Russian and currently learning Spanish!
