@@ -2,7 +2,7 @@
 title: About
 description: Introduction
 ---
-My name is Roman Golev and I am a BIM specialist with 7 years experience in the construction and design industry. Through my career I had a chance to participate in different types of projects: industrial plants (chemical, ore, smelting), residential, commercial buildings, skyscrapers and renovated bulidings. I am passionate about new technologies and automation in both design and construction. Having an experience in BIM and having a software development knowledge both gives me an ability to automate design routine processes, amplify validation of design deliverables and ensure continuous data flow. I am always positive about learning new things to get an extraordinary results. Having an analytical engineering mind helps me solve complicated tasks.
+My name is Roman Golev and I am a BIM specialist with 7 years experience in the construction and design industry. Through my career I had a chance to participate in different types of projects: industrial plants (chemical, ore, smelting), residential, commercial buildings, skyscrapers and renovated bulidings. I am passionate about new technologies and automation in both design and construction. Having an experience in BIM and having a software development knowledge both gives me an ability to automate design routine processes, amplify validation of design deliverables and ensure continuous data flow. I am always positive about learning new things to get an extraordinary results. Having an analytical engineering mind helps me solve complicated and challenging tasks.
 
 
 Education

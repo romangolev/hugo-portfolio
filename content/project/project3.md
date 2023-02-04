@@ -49,3 +49,7 @@ Close-up video showing the istallement of Steel Trusses:
 
 ### Construction Animation of Commercial Building, Moscow
 [![Construction Animation of Commercial Building, Moscow](https://img.youtube.com/vi/EedCeO1Vh4o/0.jpg)](https://www.youtube.com/watch?v=EedCeO1Vh4o)
+
+### Construction Sequence of the Building's Underground Part, Moscow
+[Construction Sequence of the Building's Underground Part, Moscow](https://img.youtube.com/vi/EedCeO1Vh4o/0.jpg)](https://www.youtube.com/watch?v=wU1zgf_rUrA)
+

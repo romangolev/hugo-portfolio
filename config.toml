@@ -1,13 +1,13 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hello, there!"
+title = "Roman Golev"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Roman Golev"
-    description = "My name is Roman Golev and it's my webpage 🚧 At maintenence now 🚧"
+    description = "Data Engineer, BIM Specialist, Architectural and Building construction enthusiast. The webpage is under maintenence now 🚧"
     githubUsername = "#"
     accent = " #0070b9 "
     showBorder = true
@@ -15,7 +15,7 @@ googleAnalytics = ""
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["Python", "JavaScript", "C#", "HTML", "CSS"]
 
 [[menu.main]]
     url = "/"
