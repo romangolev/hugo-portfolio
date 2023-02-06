@@ -1,6 +1,6 @@
 ---
 title: "Construction visualisations"
-description: ""
+description: "4D visualisations and construction projects visualisations"
 #repo: "#" 
 tags: ["3DS Max", "VRay", "Construction"]
 weight: 3
@@ -16,9 +16,6 @@ Close-up video showing the istallement of Steel Trusses:
 
 ### High-rise complex Construction in Moscow
 [![High-rise complex Construction in Moscow](https://img.youtube.com/vi/NTD6pZ2gDGE/0.jpg)](https://www.youtube.com/watch?v=NTD6pZ2gDGE)
-
-### 
-
 
 ### MEGA Extension, Moscow
 [![High-rise complex Construction in Moscow](https://img.youtube.com/vi/EMqEJu82SYo/0.jpg)](https://www.youtube.com/watch?v=EMqEJu82SYo)
@@ -51,5 +48,5 @@ Close-up video showing the istallement of Steel Trusses:
 [![Construction Animation of Commercial Building, Moscow](https://img.youtube.com/vi/EedCeO1Vh4o/0.jpg)](https://www.youtube.com/watch?v=EedCeO1Vh4o)
 
 ### Construction Sequence of the Building's Underground Part, Moscow
-[Construction Sequence of the Building's Underground Part, Moscow](https://img.youtube.com/vi/EedCeO1Vh4o/0.jpg)](https://www.youtube.com/watch?v=wU1zgf_rUrA)
+[![Construction Sequence of the Building's Underground Part, Moscow](https://img.youtube.com/vi/wU1zgf_rUrA/0.jpg)](https://www.youtube.com/watch?v=wU1zgf_rUrA)
 
