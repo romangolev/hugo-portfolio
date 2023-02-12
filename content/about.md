@@ -23,4 +23,4 @@ My name is Roman Golev and I am a BIM specialist with 7 years experience in the 
 - Hardworking 
 - Oriented on result
   
-I can speak English, Russian fluently. Currently learning Spanish!
+I speak English, Russian fluently. Currently learning Spanish!
