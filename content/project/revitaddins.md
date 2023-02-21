@@ -1,5 +1,5 @@
 ---
-title: "Revit Add-ins bundle"
+title: "Revit Add-ins development"
 description: "Bundle of tools and enhancements for Revit"
 #repo: "#" # delete this line if you want a blog-like page
 tags: ["Revit", "C#"]
