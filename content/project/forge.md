@@ -16,6 +16,6 @@ The application itself is very basic and mostly relies on ACC(BIM360) service in
 The interface is simple but allows to select and open converted cloud models in browser. The purpose of right pane is to visualise element's values and output donut chart using [chart.js](https://www.chartjs.org/) You can select a property for the visualisation, it uses [jQuery](https://jquery.com/) to get merely instant responsiveness.
 ![Web application view 1](../images/data1.png)
 
-It does show the chart of the element's values from the model. Here is an example of apllication I created for as an extend to ACC to get the information about models maturity.
+It does show the chart of the element's values from the model. Here is an example of application I created for as an extend to ACC to get the information about models maturity.
 ![Web application view 2](../images/data2.png)
 On top of that, APS API gives an ability to extend functions of the embeded model viewer and develop custom tools. Three buttons of the viewer on the image above has custom functions for model validation and data extraction.
