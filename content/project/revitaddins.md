@@ -8,7 +8,10 @@ draft: false
 ---
 
 ### C#(.NET) Revit add-ins
-Revit as an windows application uses .NET libraries and supports application written in C#, Python or VBNet. The code should be compiled into a .dll file and placed into a one of the supported directories. 
+Revit as an windows application uses .NET libraries and supports application written in C#, Python or VBNet. The code should be compiled into .dll file or set of files and then placed into one from supported directories. 
+
+
 
 ---
 Here is the link to the github repository:....
+https://github.com/romangolev/RG-Tools

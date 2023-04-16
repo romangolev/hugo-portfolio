@@ -32,20 +32,9 @@ draft: false
 ### Construction animation of Industrial project, Murmansk
 [![onstruction animation of Industrial project, Murmansk](https://img.youtube.com/vi/N7pyiJ-mHKc/0.jpg)](https://www.youtube.com/watch?v=N7pyiJ-mHKc)
 
-### Civil building construction, Moscow
-[![Civil building construction, Moscow](https://img.youtube.com/vi/J9G3U0NkwYg/0.jpg)](https://www.youtube.com/watch?v=J9G3U0NkwYg)
 
 ### Ozyorny GOK
 [![Ozyorny GOK](https://img.youtube.com/vi/jvFPy0fSqDI/0.jpg)](https://www.youtube.com/watch?v=jvFPy0fSqDI)
-
-### Mitino Shopping Mall, Moscow
-[![Mitino Shopping Mall](https://img.youtube.com/vi/a05S46lgPYs/0.jpg)](https://www.youtube.com/watch?v=a05S46lgPYs)
-
-### Shopping Mall Construction, Vladimir
-[![Shopping Mall Construction, Vladimir](https://img.youtube.com/vi/7Hl9xXyThNI/0.jpg)](https://www.youtube.com/watch?v=7Hl9xXyThNI)
-
-### Construction Animation of Commercial Building, Moscow
-[![Construction Animation of Commercial Building, Moscow](https://img.youtube.com/vi/EedCeO1Vh4o/0.jpg)](https://www.youtube.com/watch?v=EedCeO1Vh4o)
 
 ### Construction Sequence of the Building's Underground Part, Moscow
 [![Construction Sequence of the Building's Underground Part, Moscow](https://img.youtube.com/vi/wU1zgf_rUrA/0.jpg)](https://www.youtube.com/watch?v=wU1zgf_rUrA)

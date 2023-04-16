@@ -8,9 +8,8 @@ draft: false
 ---
 
 
-The [pyRevit](https://github.com/eirannejad/pyRevit) extension is an application on top of Autodesk Revit
-that gives on ability to create extensions using Python scripts. pyRevit manages application and add-ins using RevitAPI.
-My extension for pyRevit is an essence of my Python Scripts developed for Dynamo to extend the functionality of Autodesk Revit.
-There are scripts that automate routines tasks for architects, interior designers and BIM coordinators.
+The [pyRevit](https://github.com/eirannejad/pyRevit) extension is an application on top of Autodesk Revit that gives the ability to create extensions using Python scripts without the need to compile code. pyRevit manages extensions written in Python and allows to run code on-the-go. 
 
-pyArchitect is available under GPL-3.0 license on Github [here](https://github.com/romangolev/pyArchitect)
+This extension for pyRevit is an essence of Python Scripts developed primarily for Dynamo to extend the functionality of Autodesk Revit. There are scripts that automate routines tasks for architects, interior designers and BIM coordinators. 
+
+The pyArchitect extension is available under GPL-3.0 license on Github [here](https://github.com/romangolev/pyArchitect)
