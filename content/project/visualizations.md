@@ -7,6 +7,9 @@ weight: 3
 draft: false
 ---
 
+The integration of the fourth dimension, time, into Building Information Modeling (BIM) brings numerous benefits to the construction industry. 4D BIM enables improved project coordination, enhanced planning and scheduling, clash detection, and conflict resolution, as well as better communication and stakeholder engagement. By incorporating time-related information into the BIM model, construction professionals can make informed decisions, optimize resource utilization, minimize delays, and deliver projects more efficiently. As the construction industry continues to embrace digital transformation, the importance of 4D BIM will only grow, driving better project outcomes and transforming the way buildings are designed, constructed, and managed.
+
+Here I have a couple of 4D projects that I have been working on for quite a long time through my carrer. Some of them brings more presentational value and helped the company acquire new perspective projects. Another served to optimize construction schedule and reduce construction time. 
 
 ### Sport Centre in Tushino, Moscow
 [![Sport Centre in Tushino, Moscow](https://img.youtube.com/vi/Vn3yqhvKWEc/0.jpg)](https://www.youtube.com/watch?v=Vn3yqhvKWEc)

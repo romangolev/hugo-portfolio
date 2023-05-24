@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Roman Golev"
-    description = "Data Engineer, BIM Specialist, Architectural and Building construction enthusiast. The webpage is under maintenence now 🚧"
+    description = "BIM Specialist, Architectural and Building construction enthusiast, Add-ins developer"
     githubUsername = "#"
     accent = " #0070b9 "
     showBorder = true
@@ -65,13 +65,3 @@ googleAnalytics = ""
     url = "https://www.facebook.com/rv.golev"
     name = "fab fa-facebook"
     weight = 5
-
-[[menu.icon]]
-    url = "https://www.instagram.com/rv.golev/"
-    name = "fab fa-instagram"
-    weight = 6
-
-[[menu.icon]]
-    url = "https://www.youtube.com/@romangolev"
-    name = "fab fa-youtube"
-    weight = 7

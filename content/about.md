@@ -3,7 +3,7 @@ title: About
 ---
 #### Introduction
 
-My name is Roman Golev and I am a BIM specialist with 7 years experience in the construction and design industry. Through my career I had a chance to participate in different types of projects: industrial plants (chemical, ore, smelting), residential, commercial buildings, skyscrapers and renovated buildings. I am passionate about new technologies and automation in both design and construction. Having experience in BIM and having a software development knowledge both gives me an ability to automate design routine processes, amplify validation of design deliverables and ensure continuous data flow. I am always positive about learning new things in order to achieve extraordinary results. Having an analytical engineering mind helps me solve complicated and challenging tasks.
+7 years working experience in the AEC industry with Autodesk, Trimble and other software. Successfully delivered of wide variety construction project types: industrial, residential, commercial, sporting, airports and high-rise. Consider myself as a comprehensive specialist with ability to deliver complicated projects in both creative and technical ways within tough dead-lines. Also can be described as savvy computer user with an attention to the details. I am an automation enthusiast and develop add-ins for Revit.
 
 
 #### Education
@@ -23,4 +23,3 @@ My name is Roman Golev and I am a BIM specialist with 7 years experience in the 
 - Hardworking 
 - Oriented on result
   
-I speak English, Russian and Spanish.

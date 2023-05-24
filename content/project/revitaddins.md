@@ -13,5 +13,5 @@ Revit as an windows application uses .NET libraries and supports application wri
 
 
 ---
-Here is the link to the github repository:....
-https://github.com/romangolev/RG-Tools
+<!-- Here is the link to the github repository:....
+https://github.com/romangolev/RG-Tools -->
