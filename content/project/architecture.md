@@ -6,7 +6,7 @@ weight: 2
 draft: false
 #date: 2017-02-20T15:26:23-06:00
 ---
-![Hotel](../images/o11-1.png)
+![Hotel](../images/o11-0.png)
 BIM fosters collaboration among architects, engineers, contractors, and clients. It serves as a central hub for information sharing, allowing real-time communication, addressing conflicts, and incorporating feedback. This collaborative approach enhances teamwork, reduces errors, and ensures smooth project progress.
 ![Hotel](../images/o11.gif)
 BIM enables architects to create realistic 3D models, facilitating better visualization and exploration of design alternatives. Architects can experiment with materials, lighting, and spatial configurations, ensuring the final design meets aesthetic and functional goals.
