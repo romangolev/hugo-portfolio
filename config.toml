@@ -1,14 +1,14 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Roman Golev"
+title = "portfolio web blog"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Roman Golev"
-    description = "BIM Specialist, Architectural and Building construction enthusiast, Add-ins developer"
-    githubUsername = "#"
+    description = "Roman Golev"
+    githubUsername = "romangolev"
     accent = " #0070b9 "
     showBorder = true
     backgroundColor = "#E8E8E8"

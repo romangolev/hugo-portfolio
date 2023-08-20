@@ -3,7 +3,7 @@ title: About
 ---
 #### Introduction
 
-7 years working experience in the AEC industry with Autodesk, Trimble and other software. Successfully delivered of wide variety construction project types: industrial, residential, commercial, sporting, airports and high-rise. Consider myself as a comprehensive specialist with ability to deliver complicated projects in both creative and technical ways within tough dead-lines. Also can be described as savvy computer user with an attention to the details. I am an automation enthusiast and develop add-ins for Revit.
+With a background spanning four years in coding, I've cultivated a deep expertise encompassing application creation, debugging, deployment, and maintenance. Fearless when it comes to tackling intricate tasks, I consistently go the extra mile to ensure the optimal delivery of applications. My proficiency extends to cloud technologies, and I possess a solid grasp of web application architecture. During my leisure time, I engage in app development and actively contribute to the open-source community. My journey began with Python, which I initially employed for automating routine tasks. Since then, I've continuously expanded my skill set by delving into new libraries and programming languages. Drawing from my engineering background, I have a natural inclination for data structuring, while my collaborative nature makes me a valuable asset in team settings.
 
 
 #### Education
@@ -15,6 +15,7 @@ title: About
 - [Python Core](https://www.sololearn.com/certificates/CT-F8LSR2XD), [Python Intermediate](https://www.sololearn.com/certificates/CT-TZ5UBHXC), [Python Data Structures](https://www.sololearn.com/certificates/CT-H4IOLF2U), [Data Science](https://www.sololearn.com/certificates/CT-99YL6JHS) Certificates
 - [Javascript](https://www.sololearn.com/certificates/CT-AR6YKJYQ), [HTML](https://www.sololearn.com/certificates/CT-XXJ9BGKF), [CSS](https://www.sololearn.com/certificates/CT-83FASK2I) Certificates
 - [SQL](https://www.sololearn.com/certificates/CT-KZO6AY33) Certificate
+- [React+Redux](https://www.sololearn.com/certificates/CC-EIP8IQNA) Certificate
 
 #### Skills
 
@@ -28,12 +29,12 @@ title: About
 
 
 
-  <!-- 
-  
-  to run local dev mode run:
-  hugo server
+<!-- 
 
-  to build a project, run:
-  hugo -D
-  
-   -->
+to run local dev mode run:
+hugo server
+
+to build a project, run:
+hugo -D
+
+  -->
