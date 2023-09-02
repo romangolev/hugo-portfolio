@@ -16,7 +16,7 @@ With a background spanning four years in coding, I've cultivated a deep expertis
 - [Javascript](https://www.sololearn.com/certificates/CT-AR6YKJYQ), [HTML](https://www.sololearn.com/certificates/CT-XXJ9BGKF), [CSS](https://www.sololearn.com/certificates/CT-83FASK2I) Certificates
 - [SQL](https://www.sololearn.com/certificates/CT-KZO6AY33) Certificate
 - [React+Redux](https://www.sololearn.com/certificates/CC-EIP8IQNA) Certificate
-
+- [jQuery](https://www.sololearn.com/certificates/CC-5WLABLPU) Certificate
 #### Skills
 
 - Savvy PC user

@@ -22,4 +22,4 @@ Extension has several panels in the tab:
 * Finishing — bundle for achetecture interior works
 * Tools — miscellaneous tools
 
-Every tool has an embedded description. To see the description and hint, hover mouse over the button
+Every tool has an embedded description. To see the description and hint, hover mouse over the button. 
