@@ -3,4 +3,4 @@
 	url = https://github.com/calintat/minimal.git
 [submodule "public"]
 	path = public
-	url = ./public
+	url = https://github.com/romangolev/hugo-public
